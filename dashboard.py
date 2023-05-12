@@ -154,7 +154,7 @@ videofeeds = dbc.Col(width=4, style = {'padding-top':'60px'},children =[
             'margin-right':'auto'})]) 
 
 # Header Component
-header = dbc.Col(width = 10,
+header = dbc.Col(
    children = [
        html.Header(
     #         style = {
