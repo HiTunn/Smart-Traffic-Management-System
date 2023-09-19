@@ -1,0 +1,9 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /content/drive/MyDrive/DATN/aiot_count/AIC21-track1-team19/ScaledYOLOv4-yolov4-csp/data/train/images 
+val: /content/drive/MyDrive/DATN/aiot_count/AIC21-track1-team19/ScaledYOLOv4-yolov4-csp/data/valid/images  
+
+# number of classes
+nc: 4
+
+# class names
+names: ['motobike','car','bus', 'truck']
