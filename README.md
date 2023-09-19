@@ -16,7 +16,11 @@ The Smart Traffic Management System, or STMS, is a technological solution that a
 * How to run the program
 * Step-by-step bullets
 ```
-git clone
+git clone https://github.com/HiTunn/Smart-Traffic-Management-System.git
+cd Smart-Traffic-Management-System
+pip install -r requirement.txt
+python dashboard.py
+
 ```
 
 
